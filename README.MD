@@ -11,8 +11,8 @@ Implementacja nieformalnej semantyki logiki pierwszego rzędu w języku polskim,
 umożliwia użytkownikowi stworzenie własnej semantyki logiki pierwszego rzędu.
 
 ### Linki:
-* [Dokumentacja]()
-* [Aplikacja] ()
+* [Podręcznik Użytklownika](https://github.com/mgonip/Translator/tree/master/docs)
+* [Aplikacja](https://github.com/mgonip/Translator/tree/master/dist)
 
 ## Wymagane oprogramowanie:
 Poza małymi wymaganiami sprzętowymi, niezbędne do działania programu jest oprogramowanie wymienione poniżej: 
